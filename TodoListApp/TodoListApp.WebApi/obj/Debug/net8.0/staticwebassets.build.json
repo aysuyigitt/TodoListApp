@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OlUa6YAwOC8LP7Z/IE+oE3RHlndEV8uSbeuJqYnIQeQ=",
+  "Source": "TodoListApp.WebApi",
+  "BasePath": "_content/TodoListApp.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

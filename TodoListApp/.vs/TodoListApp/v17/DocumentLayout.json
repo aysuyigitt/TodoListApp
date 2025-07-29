@@ -1,0 +1,774 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapp\\views\\tasktodo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|solutionrelative:todolistapp.webapp\\views\\tasktodo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapp\\controllers\\tasktodocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|solutionrelative:todolistapp.webapp\\controllers\\tasktodocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\controllers\\tasktodoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\controllers\\tasktodoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapp\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|solutionrelative:todolistapp.webapp\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapp\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|solutionrelative:todolistapp.webapp\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapp\\models\\tasktodowebapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|solutionrelative:todolistapp.webapp\\models\\tasktodowebapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\manager\\tasktodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\manager\\tasktodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\service\\itasktodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\service\\itasktodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\model\\tasktodomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\model\\tasktodomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\manager\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\manager\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\context\\todolistdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\context\\todolistdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\model\\tasktodowebapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\model\\tasktodowebapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\entitites\\tasktodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\entitites\\tasktodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\model\\todolistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\model\\todolistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\entitites\\todolistentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\entitites\\todolistentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|solutionrelative:todolistapp.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|solutionrelative:todolistapp.webapp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapp\\service\\itasktodowebapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|solutionrelative:todolistapp.webapp\\service\\itasktodowebapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapp\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|solutionrelative:todolistapp.webapp\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\entitites\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\entitites\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\entitites\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\entitites\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|solutionrelative:todolistapp.webapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\model\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\model\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoListApp/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\context\\identitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\context\\identitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TranieeDb/True/SqlTable/dbo.AspNetUserTokens.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoListApp/True/SqlTable/dbo.TaskTodos.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\migrations\\todolistdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\migrations\\todolistdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapp\\models\\todolistwebapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|solutionrelative:todolistapp.webapp\\models\\todolistwebapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapp\\service\\itodolistwebapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|solutionrelative:todolistapp.webapp\\service\\itodolistwebapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC245CE-55CD-45F6-BC97-FC3B2D50ACF4}|TodoListApp.WebApp\\TodoListApp.WebApp.csproj|solutionrelative:todolistapp.webapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\service\\itodolistdatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\service\\itodolistdatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\entitites\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\entitites\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\entitites\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\entitites\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\model\\tagmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\model\\tagmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoListApp/True/SqlTable/dbo.TagTaskTodo.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoListApp/True/SqlTable/dbo.Tags.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\service\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\service\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoListApp/True/SqlTable/dbo.TodoListEntities.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\manager\\todolistdatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\manager\\todolistdatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoListDb/True/SqlTable/dbo.TodoListEntities.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoListDb/True/SqlTable/dbo.TaskTodos.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\migrations\\20250723202016_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\migrations\\20250723202016_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\todolistapp\\todolistapp.webapi\\migrations\\20250724131017_removetasktodoidfromtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47D3791-7B2D-48A9-83C3-2F04E9C697A9}|TodoListApp.WebApi\\TodoListApp.WebApi.csproj|solutionrelative:todolistapp.webapi\\migrations\\20250724131017_removetasktodoidfromtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Views\\TodoList\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoListApp.WebApp\\Views\\TodoList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Views\\TodoList\\Index.cshtml",
+              "RelativeToolTip": "TodoListApp.WebApp\\Views\\TodoList\\Index.cshtml",
+              "ViewState": "AQIAAFMAAAAAAAAAAADwv3AAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T19:04:23.277Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskTodoController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Controllers\\TaskTodoController.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApp\\Controllers\\TaskTodoController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Controllers\\TaskTodoController.cs",
+              "RelativeToolTip": "TodoListApp.WebApp\\Controllers\\TaskTodoController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvzkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:01:07.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Views\\TaskTodo\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoListApp.WebApp\\Views\\TaskTodo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Views\\TaskTodo\\Index.cshtml",
+              "RelativeToolTip": "TodoListApp.WebApp\\Views\\TaskTodo\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T14:17:58.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoListController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Controllers\\TodoListController.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Controllers\\TodoListController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Controllers\\TodoListController.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Controllers\\TodoListController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T13:25:46.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskTodosController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Controllers\\TaskTodosController.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Controllers\\TaskTodosController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Controllers\\TaskTodosController.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Controllers\\TaskTodosController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAAIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:41:52.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoListController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Controllers\\TodoListController.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApp\\Controllers\\TodoListController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Controllers\\TodoListController.cs",
+              "RelativeToolTip": "TodoListApp.WebApp\\Controllers\\TodoListController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:00:57.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskTodoWebApiModel.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Models\\TaskTodoWebApiModel.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApp\\Models\\TaskTodoWebApiModel.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Models\\TaskTodoWebApiModel.cs",
+              "RelativeToolTip": "TodoListApp.WebApp\\Models\\TaskTodoWebApiModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:02:40.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskTodoService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Manager\\TaskTodoService.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Manager\\TaskTodoService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Manager\\TaskTodoService.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Manager\\TaskTodoService.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAIMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:51:03.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITaskTodoService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Service\\ITaskTodoService.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Service\\ITaskTodoService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Service\\ITaskTodoService.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Service\\ITaskTodoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:47:51.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Controllers\\TagsController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Controllers\\TagsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:08:09.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Manager\\TagService.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Manager\\TagService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Manager\\TagService.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Manager\\TagService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:42:30.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskTodoModel.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Model\\TaskTodoModel.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Model\\TaskTodoModel.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Model\\TaskTodoModel.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Model\\TaskTodoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:38:14.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TodoListDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Context\\TodoListDbContext.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Context\\TodoListDbContext.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Context\\TodoListDbContext.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Context\\TodoListDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T18:40:27.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskTodoWebApiModel.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Model\\TaskTodoWebApiModel.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Model\\TaskTodoWebApiModel.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Model\\TaskTodoWebApiModel.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Model\\TaskTodoWebApiModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:47:51.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskTodo.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Entitites\\TaskTodo.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Entitites\\TaskTodo.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Entitites\\TaskTodo.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Entitites\\TaskTodo.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:05:46.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TodoListModel.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Model\\TodoListModel.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Model\\TodoListModel.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Model\\TodoListModel.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Model\\TodoListModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T13:58:58.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TodoListEntity.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Entitites\\TodoListEntity.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Entitites\\TodoListEntity.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Entitites\\TodoListEntity.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Entitites\\TodoListEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:34:09.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Program.cs",
+              "RelativeToolTip": "TodoListApp.WebApp\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T18:22:47.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApp\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "TodoListApp.WebApp\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T18:10:45.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITaskTodoWebApiService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Service\\ITaskTodoWebApiService.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApp\\Service\\ITaskTodoWebApiService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Service\\ITaskTodoWebApiService.cs",
+              "RelativeToolTip": "TodoListApp.WebApp\\Service\\ITaskTodoWebApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:06:45.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoListApp.WebApp\\Views\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "TodoListApp.WebApp\\Views\\Register\\Index.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvyIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T18:18:50.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Model\\LoginModel.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Model\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Model\\LoginModel.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Model\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T18:28:18.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Entitites\\AppUser.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Entitites\\AppUser.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Entitites\\AppUser.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Entitites\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T18:11:12.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Program.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:50:48.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Entitites\\AppRole.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Entitites\\AppRole.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Entitites\\AppRole.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Entitites\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T18:27:14.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoListApp.WebApp\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "TodoListApp.WebApp\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T18:32:43.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Model\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Model\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Model\\RegisterModel.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Model\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T18:28:19.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IdentityContext.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Context\\IdentityContext.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Context\\IdentityContext.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Context\\IdentityContext.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Context\\IdentityContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T18:40:21.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TodoListDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Migrations\\TodoListDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Migrations\\TodoListDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Migrations\\TodoListDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Migrations\\TodoListDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:57:35.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TodoListWebApiModel.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Models\\TodoListWebApiModel.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApp\\Models\\TodoListWebApiModel.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Models\\TodoListWebApiModel.cs",
+              "RelativeToolTip": "TodoListApp.WebApp\\Models\\TodoListWebApiModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:48:27.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ITodoListWebApiService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Service\\ITodoListWebApiService.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApp\\Service\\ITodoListWebApiService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Service\\ITodoListWebApiService.cs",
+              "RelativeToolTip": "TodoListApp.WebApp\\Service\\ITodoListWebApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:49:32.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TodoListApp.WebApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:28:33.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Entitites\\Comment.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Entitites\\Comment.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Entitites\\Comment.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Entitites\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:30:10.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ITodoListDatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Service\\ITodoListDatabaseService.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Service\\ITodoListDatabaseService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Service\\ITodoListDatabaseService.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Service\\ITodoListDatabaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T13:20:22.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TagModel.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Model\\TagModel.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Model\\TagModel.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Model\\TagModel.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Model\\TagModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:10:21.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Entitites\\Tag.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Entitites\\Tag.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Entitites\\Tag.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Entitites\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:28:56.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ITagService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Service\\ITagService.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Service\\ITagService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Service\\ITagService.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Service\\ITagService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:37:00.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250724131017_RemoveTaskTodoIdFromTag.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Migrations\\20250724131017_RemoveTaskTodoIdFromTag.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Migrations\\20250724131017_RemoveTaskTodoIdFromTag.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Migrations\\20250724131017_RemoveTaskTodoIdFromTag.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Migrations\\20250724131017_RemoveTaskTodoIdFromTag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T13:10:17.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250723202016_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Migrations\\20250723202016_initialCreate.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Migrations\\20250723202016_initialCreate.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Migrations\\20250723202016_initialCreate.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Migrations\\20250723202016_initialCreate.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T20:20:17.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TodoListDatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Manager\\TodoListDatabaseService.cs",
+              "RelativeDocumentMoniker": "TodoListApp.WebApi\\Manager\\TodoListDatabaseService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\TodoListApp\\TodoListApp.WebApi\\Manager\\TodoListDatabaseService.cs",
+              "RelativeToolTip": "TodoListApp.WebApi\\Manager\\TodoListDatabaseService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T13:22:52.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoListApp/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-27T18:27:01.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dbo.AspNetUserTokens [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TranieeDb/True/SqlTable/dbo.AspNetUserTokens.sql",
+              "ToolTip": "dbo.AspNetUserTokens [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-27T17:52:36.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dbo.TaskTodos [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoListApp/True/SqlTable/dbo.TaskTodos.sql",
+              "ToolTip": "dbo.TaskTodos [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-23T20:24:11.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "dbo.TagTaskTodo [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoListApp/True/SqlTable/dbo.TagTaskTodo.sql",
+              "ToolTip": "dbo.TagTaskTodo [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-24T13:12:26.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "dbo.Tags [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoListApp/True/SqlTable/dbo.Tags.sql",
+              "ToolTip": "dbo.Tags [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-24T13:11:34.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "dbo.TodoListEntities [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoListApp/True/SqlTable/dbo.TodoListEntities.sql",
+              "ToolTip": "dbo.TodoListEntities [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-23T20:24:22.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dbo.TodoListEntities [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoListDb/True/SqlTable/dbo.TodoListEntities.sql",
+              "ToolTip": "dbo.TodoListEntities [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-23T12:59:25.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "dbo.TaskTodos [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TodoListDb/True/SqlTable/dbo.TaskTodos.sql",
+              "ToolTip": "dbo.TaskTodos [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-23T13:41:53.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
